@@ -1,0 +1,14 @@
+C:\Учебка_3курс\c#\net_5_1_ui\bin\Debug\net_5_1_ui.exe.config
+C:\Учебка_3курс\c#\net_5_1_ui\bin\Debug\net_5_1_ui.exe
+C:\Учебка_3курс\c#\net_5_1_ui\bin\Debug\net_5_1_ui.pdb
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.csproj.AssemblyReference.cache
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.Form1.resources
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.Properties.Resources.resources
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.csproj.GenerateResource.cache
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.csproj.CoreCompileInputs.cache
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.exe
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.pdb
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.FormAdd.resources
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.Mistake.resources
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.TearOutPage.resources
+C:\Учебка_3курс\c#\net_5_1_ui\obj\Debug\net_5_1_ui.FormOpen.resources
